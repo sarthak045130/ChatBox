@@ -138,54 +138,6 @@ The illustration above showcases a conversation between two separate tabs opened
 
 <a id="instructions"> </a>
 
-## Instructions
-
-1. Clone the project:
-
-   - Firstly, clone the project using the command: https://github.com/SamarthKadam/ChatBox
-
-2. Install Packages:
-
-   - Install the required packages by navigating to the backend directory: `cd backend` and then run `npm install`.
-   - Similarly, move to the frontend directory: `cd frontend` and execute `npm install`.
-
-3. To set up the frontend
-
-   - Create a `.env` file in the frontend directory.
-
-   - Add the following values to the `.env` file:
-   - ```
-     REACT_APP_API_URL=http://127.0.0.1:4000
-     REACT_APP_SOCKET_URL=http://127.0.0.1:4000
-     ```
-
-4. For configuring the backend:
-
-   - Establish your applications connection with MongoDB using following environment variables as key with your own values.
-   - Create a `config.env` file in the backend directory.
-   - Set the following environment variables in the `config.env` file:
-
-   ```
-     DBPASSWORD=<-yourmongodbpassword->
-     DB=<-yourmongodbconnectionuri->
-     PORT=4000
-     DOMAIN=127.0.0.1
-     JWTEXPIRES=90d
-     JWTSECRET=<-giveanysecretkey->
-     JWT_COOKIE_EXPIRES=90
-   ```
-
-5. Start Backend Server:
-
-   - Start the backend server using the command: `cd backend` and then `npm start`.
-
-6. Start Frontend:
-
-   - Finally, initiate the frontend with the command: `cd frontend` and then `npm start`.
-
-7. Open `http://localhost:3000` with your browser to see the app
-
-
 ## Quick-Setup
 If you want to eliminate the backend setup then head to .env file in frontend. Replace your values with this
 ```
