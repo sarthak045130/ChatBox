@@ -31,8 +31,6 @@ Welcome to Chatbox, your go-to platform for effortless and engaging conversation
   - [Other Tools](#other)
 
 - [Getting Started Instructions](#instructions)
-- [Links](#links)
-- [Contact](#contact)
 
   <a id="features"> </a>
 
@@ -204,10 +202,3 @@ REACT_APP_SOCKET_URL=https://chatbox-api-bj21.onrender.com
 - [Project Demo](https://chat-box-samarthkadam.vercel.app/)
 
 <a id="contact"> </a>
-
-## Need help?
-
-Feel free to contact me on [Twitter](https://twitter.com/Samarth69908166) or [LinkedIn](https://www.linkedin.com/in/samarth-kadam-119a25209/), know more about me at [samarthkadam.vercel.app](https://samarthkadam.vercel.app/)
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/Samarth69908166)
